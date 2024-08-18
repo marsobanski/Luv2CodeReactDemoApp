@@ -1,0 +1,3 @@
+1) Instalacja reacta: "npm install --save typescript @types/node @types/react @types/react-dom @types/jest"
+2) Zmiana projektu w JS na TypeScript:
+    a) Zmiana plików .js na .tsx (wystarczy zmiana rozszerzenia)
